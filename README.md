@@ -3,7 +3,7 @@
 Aquest projecte és una demostració pràctica de Test Driven Development (TDD) utilitzant el framework Laravel. L'objectiu és mostrar com dissenyar i implementar funcionalitats seguint el cicle de TDD: escriure proves, codificar la funcionalitat mínima necessària i refactoritzar el codi.
 
 <p align="center">
-  <a href="https://github.com/marcpadro-ins/TDD/actions"><img src="https://github.com/marcpadro-ins/TDD/workflows/tests/badge.svg" alt="Build Status"></a>
+  <a href="https://github.com/marcpadro-ins/TDD/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
 </p>
 
 ## Contingut del projecte
